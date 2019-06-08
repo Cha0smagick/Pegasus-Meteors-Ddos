@@ -18,6 +18,6 @@ chmod +x pegasus-meteors
  
 python pegasus-meteors.py
 
-Requerimientos:
+# Requerimientos:
 
 Python 2.7
