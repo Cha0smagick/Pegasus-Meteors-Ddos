@@ -1,4 +1,5 @@
-# Pegasus-Meteors-Ddos V 1.0
+# Pegasus meteors V 1.0: Simple Ddos attack tool
+
  Simple tool to perform Distributed denial of service attack
  
  Created by: Cha0smagick
@@ -6,8 +7,6 @@
  Github: https://github.com/cha0smagick
  
  Twitch: https://www.twitch.tv/cha0smagick
-
-# Pegasus meteors V 1.0: Simple Ddos attack tool
 
 # Download E instalación: 
 
