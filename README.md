@@ -8,7 +8,7 @@
 
 # Download E instalación: 
 # git clone https://github.com/Cha0smagick/Pegasus-Meteors-Ddos
-# cd pegasus-meteors_dos
+# cd pegasus-meteors_Ddos
 # chmod +x pegasus-meteors
 # python pegasus-meteors.py
 
